@@ -1,0 +1,17 @@
+# Loại trừ các file layout, workspace và depend
+*.layout
+*.workspace
+*.depend
+
+# Loại trừ file dự án Code::Blocks
+ReadHexFile/ReadHexFile.cbp
+
+# Loại trừ file nhị phân và thư mục build
+bin/
+obj/
+
+# Loại trừ các file tạm
+*.o
+*.exe
+*.bak
+*.tmp
